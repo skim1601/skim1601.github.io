@@ -142,7 +142,7 @@ nav img{
     margin: auto;
     text-align: left;
 }
-.portfolio{
+.projects{
     width: 80%;
     margin: auto;
     text-align: center;
@@ -151,15 +151,15 @@ nav img{
     box-shadow: 0 0 0 2rem darkmagenta;
     border-radius: 20px;
 }
-.portfolio h1{
+.projects h1{
     font-size: 70px;
     font-style: bold;
     line-height: 90px;
 }
-.portfolio h2{
+.projects h2{
     font-size: 40px;
 }
-.portfolio p{
+.projects p{
     margin: 10px 0 40px;
     line-height: 50px;
     font-size: 24px;
